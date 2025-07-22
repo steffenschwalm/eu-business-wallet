@@ -49,12 +49,15 @@ The Core Functionality of the EUBW comprises
 - Authorization
 - Creation and Validation of Electronic Signatures and Seals
 - Requesting, Storing, Issuing, Presenting and Validating Electronic Attestations
-- Preserving and Archiving of Electronic Signatures, Seals, Time Stamps, Electronic Attestations and Documents
+- Requesting, Issuance and validating DID
+- Combination of transaction, LPID and Electronic Attestation using DID
+- Preserving of Electronic Signatures, Seals, Time Stamps and possibly Electronic Attestations (in interaction with a (qualified) trust services acc ETSI TS 119 511
+- Archiving of Electronic Attestations and Documents (in interaction with a (qualified) trust service acc. CEN TS 18170)
 
 ### Cross-Sector Use Cases of the EUBW
  
 - Establishment of a Company
-- European Company Certificate
+- Legal identification (LPID) e.g. European Company Certificate
 - Power of Attorney and Mandates
 - Public Permits and Licences
 - Onboarding of Business Partners and Master Data Management
@@ -72,18 +75,20 @@ The Core Functionality of the EUBW comprises
 - SEPA Direct Debit Mandates
 - Attestation of Financial Data and Statements
 - Financial Data Access
+- Execution MICAR Regulation
 
 #### Use Cases related to Industry
 
 - Data Exchange and Dataspaces
-- Digital Product Passport
+- Digital Product Passport and evidence for Supply Chain
 - Digital Twins and Industrial Asset Management 
 - Supply Chain Management and Trade Transparency
 - Registration in the European Product Registry for Energy Labelling 
 - Fulfilling the obligations of the Data Act
 - Secure Processing Environments according to the Data Governance Act
 - Reporting of Environmental Data from Industrial Installations
-- Attestations for Accreditation, Certificates and Conformity Assessment   
+- Attestations for Accreditation, Certificates and Conformity Assessment
+- Data Sharing acc. Data Act   
 
 #### Use Cases related to Logistics
 
